@@ -1,5 +1,9 @@
 <a href="#">
-<img width="100%"  height="auto" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" height="175px"/></a>
+<img width="100%"  height="auto" src="https://i.ibb.co/BGPLqZm/vector-coding-icon-modified.png" height="175px"/></a>
+
+
+https://cdn-icons-png.flaticon.com/512/1006/1006363.png
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yusuf</h1>
 <h3 align="center"> A software Developer in training and a Clinical Physiologist from Nigeria.</h3>
