@@ -1,19 +1,15 @@
 <a href="#">
-<img width="100%" height="auto" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" />
-
-<!-- <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/> -->
-
-</a>
+<img width="100%"  height="auto" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yusuf</h1>
-<h3 align="center"> A software Developer in training and a Clinical physiologist from Nigeria.</h3>
+<h3 align="center"> A software Developer in training and a Clinical Physiologist from Nigeria.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 I’m currently doing frontend web development internship at **[NeoDocto Inc.](https://home.neodocto.com/)**
 
-- 🌱 I’m currently learning Software Engineering at **[ ALX SE Holberton Program](https://home.neodocto.com/)**
+- 🌱 I’m currently learning Software Engineering at **[ ALX SE Holberton Program](https://www.alx-t.com/)**
 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
