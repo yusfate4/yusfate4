@@ -1,5 +1,5 @@
 <a href="#">
-<img width="100%" height="auto" src="https://img.icons8.com/fluency/96/000000/laptop-coding.png" />
+<img width="100%" height="auto" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" />
 
 <!-- <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/> -->
 
@@ -46,15 +46,15 @@
 
 <p align="center">
     <a href="https://github.com/yusfate4/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dahud Yusuf's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dahud Yusuf's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yusfate4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/yusfate4/github-readme-stats"><img alt="Dahud Yusuf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/yusfate4/github-readme-stats"><img alt="Dahud Yusuf's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/yusfate4/github-readme-stats"><img alt="Dahud Yusuf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yusfate4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/yusfate4/github-readme-stats"><img alt="Dahud Yusuf's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusfate4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/yusfate4/github-readme-activity-graph"><img alt="Dahud Yusuf's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/yusfate4/github-readme-activity-graph"><img alt="Dahud Yusuf's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yusfate4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -83,4 +83,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=yusfate4">
 </a>
-<a href="https://github.com/yusfate4?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/yusfate4?tab=followers"><img src="https://img.shields.io/github/followers/yusfate4?label=Followers&style=social" alt="GitHub Badge"></a>
