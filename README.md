@@ -69,7 +69,7 @@
 
 <a href = "https://www.linkedin.com/in/dahud-yusuf-ishola-35883ab7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/yusfate4"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/yusfate4/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/hakish_stores/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
