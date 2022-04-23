@@ -1,9 +1,4 @@
-<p align="center"> <a href="#">
-<img width="50%"  height="auto" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png
-" height="175px"/></a>
-</p>
-
-
+<p align="center"><a href="#"><img width="50%" height="auto" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yusuf</h1>
 <h3 align="center"> A Software Developer in training and a Clinical Physiologist from Nigeria.</h3>
