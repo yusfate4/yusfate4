@@ -1,15 +1,13 @@
 <p align="center"><a href="#"><img width="50%" height="auto" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yusuf</h1>
-<h3 align="center"> A Software Developer in training and a Clinical Physiologist from Nigeria.</h3>
+<h3 align="center"> A Software Developer in training</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently doing frontend web development internship at **[NeoDocto Inc.](https://home.neodocto.com/)**
 
-- 🌱 I’m currently learning Software Engineering at **[ ALX SE Holberton Program](https://www.alx-t.com/)**
-
+- 👨‍💻 I’m currently learning Software Engineering at **[Power Learn Project Software Engineering Program](https://powerlearnproject.org/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
