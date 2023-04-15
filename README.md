@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently learning Software Engineering at **[Power Learn Project Software Engineering Program](https://powerlearnproject.org/)**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://yusfate4.github.io/New_portfolio/)**
 
