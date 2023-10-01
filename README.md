@@ -1,6 +1,3 @@
-<a href="https://app.daily.dev/Dahudyusuf"><img src="https://api.daily.dev/devcards/3bf221ca35bd4d37a841c347a75ccf7c.png?r=vx9" width="400" alt="Dahud Yusuf's Dev Card"/></a>
-
-
 <p align="center"><a href="#"><img width="50%" height="auto" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yusuf</h1>
